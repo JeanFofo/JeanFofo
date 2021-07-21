@@ -33,5 +33,5 @@ JavaScript .
 
 
 
-![VOXY STTS](https://github-readme-stats.vercel.app/api?username=VoxyzinX&show_icons=true&theme=default)
+![JEAN STTS](https://cdn.discordapp.com/attachments/866714903586406430/866754705102864394/universo-das-egrils.png)
 
