@@ -15,21 +15,21 @@ Here are some ideas to get you started:
 - :zap: Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/814175338653286431/815460598312599572/tumblr_ncmc7gvndn1tp5wz6o1_500.gif">
+<img align="right" width="400" height="400" src="https://cdn.discordapp.com/attachments/858823842956836944/867075727840772176/Void_Design.gif">
 
 # Welcome!
 
-## V o x y z i n - :computer: 
+## J e a n - :computer: 
 
-# Expert:
-Js, Python, Html, Css and Ruby 
+# Learning:
+JavaScript . 
 
 
 
 ## About me:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
 - I currently live in Brazil
-- My friends call me voxy 😊
+- My friends call me Jean 😊
 - Discord user
 
 
