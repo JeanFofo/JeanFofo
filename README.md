@@ -27,9 +27,8 @@ JavaScript .
 
 
 ## About me:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/VoxyzinX)
-- I currently live in Brazil
-- My friends call me Jean 😊
+- Meu Discord : ! Jean32  英制#0032
+- Mais Info minhas : https://solo.to/jeanfofo
 - Discord user
 
 
