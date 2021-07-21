@@ -29,7 +29,7 @@ JavaScript .
 ## About me:
 - Meu Discord : ! Jean32  英制#0032
 - Mais Info minhas : https://solo.to/jeanfofo
-- Meu Servidor de Comunidade : discord.gg/zsEjbuhg6W
+- Meu Servidor de Comunidade : https://discord.gg/zsEjbuhg6W
 
 
 
