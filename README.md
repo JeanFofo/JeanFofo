@@ -1,7 +1,7 @@
 
 
 <!--
-**Duconx/Duconx** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
+**Jean/Jean** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Welcome!
 
-## J e a n - :computer: 
+## J e a n - :drop_of_blood:
 
 # Learning:
 JavaScript . 
