@@ -27,11 +27,11 @@ JavaScript .
 
 
 ## About me:
-- Meu Discord : ! Jean32  英制#0032
+- Meu Discord : ! Jean 英制#0032
 - Mais Info minhas : https://solo.to/jeanfofo
-- Meu Servidor de Comunidade : https://discord.gg/zsEjbuhg6W
+- 𝑰𝒎𝒑𝒆𝒓𝒊𝒂𝒍 e 𝑩𝒂𝒅 𝑪𝒐𝒎𝒑𝒂𝒏𝒚
 
 
 
-![JEAN STTS](https://cdn.discordapp.com/attachments/866714903586406430/866754705102864394/universo-das-egrils.png)
+![JEAN STTS](https://cdn.discordapp.com/attachments/865332982579331075/873943994063786034/zoexcm_20.gif)
 
