@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ## J e a n - :drop_of_blood:
 
 # Learning:
-JavaScript . 
+... 
 
 
 
