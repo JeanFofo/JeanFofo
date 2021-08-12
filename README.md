@@ -29,7 +29,7 @@ JS , Html, Css...
 ## About me:
 - Meu Discord : ! Jean 英制#0032
 - Mais Info minhas : https://solo.to/jeanfofo
-- 𝑰𝒎𝒑𝒆𝒓𝒊𝒂𝒍 e 𝑩𝒂𝒅 𝑪𝒐𝒎𝒑𝒂𝒏𝒚
+- 𝑩𝒂𝒅 𝑪𝒐𝒎𝒑𝒂𝒏𝒚
 
 
 
