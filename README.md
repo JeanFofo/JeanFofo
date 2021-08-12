@@ -27,7 +27,7 @@ JS , Html, Css...
 
 
 ## About me:
-- Meu Discord : ! Jean 英制#0032
+- Meu Discord : Jean.#0032
 - Mais Info minhas : https://solo.to/jeanfofo
 - 𝑩𝒂𝒅 𝑪𝒐𝒎𝒑𝒂𝒏𝒚
 
